@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def fahrenheit_to_celsius():
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8935#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 28 May 2021 15:20:32 UTC
+record: -1

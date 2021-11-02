@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    jack_age = int(input())
+    alex_age = int(input())
+    lana_age = int(input())
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8440#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 28 May 2021 15:07:46 UTC
+record: -1
